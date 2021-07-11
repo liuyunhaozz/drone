@@ -1,0 +1,5 @@
+train: ../marsk/train/images
+val: ../marsk/valid/images
+
+nc: 2
+names: ['mask', 'no-mask']
