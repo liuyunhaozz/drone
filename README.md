@@ -1,2 +1,2 @@
 # drone
-drone using detectron2
+A auto-dectection for drone using detectron2
